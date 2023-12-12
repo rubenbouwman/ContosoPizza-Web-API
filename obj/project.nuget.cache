@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MDhV/44oQbLG5P4lMzsri/O3fR39nrWYcsX5Sgm/ksD+/+US7MLDn0PaKKm1LR6dMJFndzr8A2Lz2E/OQdYKXA==",
+  "success": true,
+  "projectFilePath": "/Users/rubenbouwman/Documents/GitHub/ContosoPizza/ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/rubenbouwman/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/rubenbouwman/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/rubenbouwman/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/rubenbouwman/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/rubenbouwman/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/rubenbouwman/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
