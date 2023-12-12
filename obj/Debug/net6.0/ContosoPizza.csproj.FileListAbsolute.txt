@@ -30,3 +30,4 @@
 /Users/rubenbouwman/Documents/GitHub/ContosoPizza/obj/Debug/net6.0/ContosoPizza.pdb
 /Users/rubenbouwman/Documents/GitHub/ContosoPizza/obj/Debug/net6.0/ContosoPizza.genruntimeconfig.cache
 /Users/rubenbouwman/Documents/GitHub/ContosoPizza/obj/Debug/net6.0/ref/ContosoPizza.dll
+/Users/rubenbouwman/Documents/GitHub/ContosoPizza/obj/Debug/net6.0/ContosoPizza.sourcelink.json
